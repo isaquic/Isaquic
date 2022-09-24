@@ -3,6 +3,7 @@
 
 - 🌱 Estudando HTML / CSS
 - 🌱 JavaScript
+- 🌱 React.js
 
 
 <div align="center">
